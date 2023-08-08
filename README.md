@@ -33,3 +33,7 @@ There is a lot of job in front of us (*three Sprints + Demo*), let's get do it. 
 # Project demo
 
 [Video tutorial of ISIOP app](https://www.youtube.com/watch?v=tPA3z0IqzE8)
+
+# Newsletter
+
+[AIPlan4EU - INTELLIGENT SALES, INVENTORY AND OPERATIONS PLANNING (ISIOP)](https://www.ai4europe.eu/business-and-industry/case-studies/aiplan4eu-intelligent-sales-inventory-and-operations-planning)
